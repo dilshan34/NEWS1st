@@ -1,0 +1,179 @@
+@charset "utf-8";
+#head {
+	width: 1300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#top {
+	width: 1300px;
+}
+
+#banner {
+	height: 100px;
+	width: 100%;
+}
+#img {
+	float: left;
+
+}
+
+#col2 {
+	float: left;
+}
+#col3 {
+	float: left;
+}
+
+
+#bar {
+	height: 30px;
+
+}
+#main {
+	margin-left: auto;
+	margin-right: auto;
+}
+#top {
+	margin-left: auto;
+	margin-right: auto;
+}
+.topnews {
+	height: 200px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.move {
+	height: 200px;
+	background-color: #0D2FF7;
+	float: left;
+}
+#moveright {
+	height: 200px;
+	background-color: #C39697;
+	float: left;
+
+}
+#moveleft {
+	margin-left: 0px;
+	background-color: #D46E70;
+	height: 200px;
+	float: left;
+}
+
+
+
+#container {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #3A3636;
+	width: 1300px;
+}
+#topnews {
+	background-color: #036DDD;
+	color: #FFFFFF;
+}
+
+#footer {
+	height: 200px;
+	clear: both;
+}
+.news {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: #FFFFFF;
+	height: 200px;
+	text-align: left;
+
+
+}
+#free {
+	height: 200px;
+	background-color: #FFFFFF;
+	float: left;
+}
+
+.topics {
+	background-color: #0097D7;
+	margin-top: 30px;
+	margin-bottom: 0px;
+}
+
+.col {
+	background-color: #FFF500;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#new li {
+	float: left;
+}
+a {
+	text-decoration: none;
+}
+#new a {
+	display: inline;
+	padding-right: 60px;
+	color: #000000;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: medium;
+}
+#new a:hover {
+	text-decoration: none;
+	color: #FF0000;
+
+}
+
+
+
+
+
+
+#topic1 {
+	width: 100%;
+	background-color: #DCDCDC;
+	color: #F8060A;
+	height: 20px;
+}
+#topnews1 {
+	height: 200px;
+	background-color: #5E2E2F;
+	float: left;
+}
+#topnews3 {
+	height: 200px;
+	background-color: #90583F;
+	float: left;
+}
+
+#topnews2 {
+	background-color: #D16114;
+	height: 200px;
+	float: left;
+}
+#col1 {
+	float: left;
+}
+
+#new {
+	list-style-type: none;
+}
+#main_topic {
+	color: #FFFFFF;
+	text-align: left;
+	background-color: #2632BF;
+}
+#main_news {
+	height: 200px;
+}
+.body {
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#body {
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+}
